@@ -68,8 +68,7 @@ Create a batch script named "BackupScript.bat" that creates a backup of files wi
 
 
 ## OUTPUT
-
-![Screenshot 2024-05-08 091427](https://github.com/23013743/Windows-basic-commands-batchscript/assets/161271714/0f8fe347-61ac-4994-9d34-5438d2a9e7f5)
+![image](https://github.com/23013743/Windows-basic-commands-batchscript/assets/161271714/54b31bfa-e843-4229-8471-2d0d6e8a6695)
 
 
 
