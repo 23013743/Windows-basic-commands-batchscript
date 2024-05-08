@@ -32,28 +32,31 @@ Create a directory named "MyLab" on the desktop.
 
 Change to the "MyLab" directory and create an empty text file named "MyFile.txt" inside it.
 
-![Screenshot 2024-05-08 091416](https://github.com/23013743/Windows-basic-commands-batchscript/assets/161271714/53c02f65-14b3-4248-b707-ed0f3410f2dd)
+![image](https://github.com/23013743/Windows-basic-commands-batchscript/assets/161271714/7075c882-e7c2-4f21-8d50-672ef778ec85)
+
 
 ## COMMAND AND OUTPUT
 
 List the contents of the "MyLab" directory.
+![image](https://github.com/23013743/Windows-basic-commands-batchscript/assets/161271714/32ae50e4-d4f6-4185-8eee-3121c17f8387)
 
-![Screenshot 2024-05-08 092106](https://github.com/23013743/Windows-basic-commands-batchscript/assets/161271714/8865a6b5-1ddb-49f9-be3c-18df51ab972b)
 
 ## COMMAND AND OUTPUT
 
 Copy "MyFile.txt" to a new folder named "Backup" on the desktop.
-![Screenshot 2024-05-08 092116](https://github.com/23013743/Windows-basic-commands-batchscript/assets/161271714/96b13537-32d8-4d2a-81ad-8683f1d748a0)
+![image](https://github.com/23013743/Windows-basic-commands-batchscript/assets/161271714/0116afed-198e-4b32-8a1b-8d833f530e8d)
+
 
 ## COMMAND AND OUTPUT
 
 Move the "MyLab" directory to the "Documents" folder.
-![Screenshot 2024-05-08 092125](https://github.com/23013743/Windows-basic-commands-batchscript/assets/161271714/ed602365-8a3a-458a-b205-3778323652fb)
 
+![image](https://github.com/23013743/Windows-basic-commands-batchscript/assets/161271714/5acd1ae3-f7b3-46d9-9d81-0af83dad6bc2)
 
 ## COMMAND AND OUTPUT
+mv Myfile.txt %userprofile%\Documents 
+![image](https://github.com/23013743/Windows-basic-commands-batchscript/assets/161271714/316cdfa1-95b0-499a-9f33-8f9130ca6584)
 
-![Screenshot 2024-05-08 092133](https://github.com/23013743/Windows-basic-commands-batchscript/assets/161271714/c5a2ad50-d8dd-494e-b3a1-ab56b35b971f)
 
 ## Exercise 2: Advanced Batch Scripting
 Create a batch script named "BackupScript.bat" that creates a backup of files with the ".docx" extension from the "Documents" folder to a new folder named "DocBackup" on the desktop.
